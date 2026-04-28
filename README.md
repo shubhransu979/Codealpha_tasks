@@ -64,16 +64,6 @@ codealpha_tasks/
 ```
 ---
 
-## Output Preview
-The EDA dashboard includes:
-- Top Job Titles
-- Company Distribution
-- State-wise Analysis
-- Data Quality Metrics
-- Key Insights
-
----
-
 ## Learning Outcomes
 - Data collection from websites
 - Data cleaning and preprocessing
